@@ -1,2 +1,2 @@
 # demo
-This is my first github repositories
+This is my first github repository
